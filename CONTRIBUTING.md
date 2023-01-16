@@ -4,7 +4,7 @@
 
 1. Please create an issue or PR and add new abbreviations or edit the existing ones.
 2. Don't list acronyms (e.g., *RAM, CPU, SQL*) or conventions (*i, j, k* for iterators).
-3. Keep alphabetical order.
+3. Keep alphabetical order vertically, order from most to least used horizontally.
 5. Don't use capitals.
 6. Use singular and neutral form.
 
